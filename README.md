@@ -19,4 +19,4 @@ To deploy:
 
 
 ## Status
-    - Can't deploy the AKS cluster ; Could not find matching VM for the newly created account subscription.
+    - Still couldn't deploy the AKS cluster yet ; Could not find matching VM for the newly created account subscription.
