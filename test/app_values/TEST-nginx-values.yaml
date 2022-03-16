@@ -1,0 +1,4 @@
+ingress:
+  enabled: true
+  path: "/"
+  hostname: "nanthealth-interview.local"
